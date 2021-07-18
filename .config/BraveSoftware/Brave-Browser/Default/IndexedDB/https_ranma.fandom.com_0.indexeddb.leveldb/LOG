@@ -1,0 +1,6 @@
+2021/07/13-18:46:03.579 7ef5 Creating DB /home/pc01/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_ranma.fandom.com_0.indexeddb.leveldb since it was missing.
+2021/07/13-18:46:03.591 7ef5 Reusing MANIFEST /home/pc01/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_ranma.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/13-18:49:41.993 7f18 Level-0 table #5: started
+2021/07/13-18:49:41.997 7f18 Level-0 table #5: 29004 bytes OK
+2021/07/13-18:49:42.001 7f18 Delete type=0 #3
+2021/07/13-18:49:42.001 7f18 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,20 @@
+{
+   "color_pick_btn": {
+      "message": "Pick color from web page"
+   },
+   "description": {
+      "message": "Color picker quickly selects colors from the page using the eyedropper and automatically when browsing the web."
+   },
+   "dominant_color": {
+      "message": "Dominant color"
+   },
+   "name": {
+      "message": "Auto color picker - automatic eyedropper"
+   },
+   "select_color": {
+      "message": "Select color"
+   },
+   "selected_color": {
+      "message": "Selected color"
+   }
+}

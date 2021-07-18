@@ -1,0 +1,8 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 0.34375 0.21657403523489935 0.053062080536912748))
+(palette "Color History")
+(font "COCOGOOSE weight=250")
+(box-mode fixed)
+
+# end of gimp-text-tool options

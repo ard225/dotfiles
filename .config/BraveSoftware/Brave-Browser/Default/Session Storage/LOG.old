@@ -1,0 +1,40 @@
+2021/07/15-22:03:39.799 3 Reusing MANIFEST /home/pc01/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2021/07/15-22:03:39.800 3 Recovering log #155
+2021/07/15-22:03:39.800 3 Level-0 table #158: started
+2021/07/15-22:03:39.806 3 Level-0 table #158: 26626 bytes OK
+2021/07/15-22:03:39.806 3 Recovering log #157
+2021/07/15-22:03:39.806 3 Reusing old log /home/pc01/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000157.log 
+2021/07/15-22:03:39.812 3 Delete type=0 #155
+2021/07/15-22:03:39.812 4 Compacting 4@0 + 1@1 files
+2021/07/15-22:03:39.820 4 Generated table #159@0: 3039 keys, 64444 bytes
+2021/07/15-22:03:39.820 4 Compacted 4@0 + 1@1 files => 64444 bytes
+2021/07/15-22:03:39.826 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/15-22:03:39.827 4 Delete type=2 #150
+2021/07/15-22:03:39.828 4 Delete type=2 #154
+2021/07/15-22:03:39.828 4 Delete type=2 #156
+2021/07/15-22:03:39.828 4 Delete type=2 #152
+2021/07/15-22:03:39.828 4 Delete type=2 #158
+2021/07/16-00:31:02.076 55 Level-0 table #161: started
+2021/07/16-00:31:02.087 55 Level-0 table #161: 26375 bytes OK
+2021/07/16-00:31:02.092 55 Delete type=0 #157
+2021/07/16-01:40:33.190 7c Level-0 table #163: started
+2021/07/16-01:40:33.200 7c Level-0 table #163: 38120 bytes OK
+2021/07/16-01:40:33.205 7c Delete type=0 #160
+2021/07/16-04:01:43.252 c1 Level-0 table #165: started
+2021/07/16-04:01:43.262 c1 Level-0 table #165: 18962 bytes OK
+2021/07/16-04:01:43.269 c1 Delete type=0 #162
+2021/07/17-00:37:01.674 569 Level-0 table #167: started
+2021/07/17-00:37:01.687 569 Level-0 table #167: 23719 bytes OK
+2021/07/17-00:37:01.694 569 Delete type=0 #164
+2021/07/17-00:37:01.694 569 Compacting 4@0 + 1@1 files
+2021/07/17-00:37:01.704 569 Generated table #168@0: 3333 keys, 90362 bytes
+2021/07/17-00:37:01.705 569 Compacted 4@0 + 1@1 files => 90362 bytes
+2021/07/17-00:37:01.708 569 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/17-00:37:01.710 569 Delete type=2 #165
+2021/07/17-00:37:01.710 569 Delete type=2 #159
+2021/07/17-00:37:01.710 569 Delete type=2 #161
+2021/07/17-00:37:01.710 569 Delete type=2 #163
+2021/07/17-00:37:01.710 569 Delete type=2 #167
+2021/07/17-01:46:00.347 572 Level-0 table #170: started
+2021/07/17-01:46:00.356 572 Level-0 table #170: 33143 bytes OK
+2021/07/17-01:46:00.361 572 Delete type=0 #166

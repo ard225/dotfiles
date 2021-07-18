@@ -1,0 +1,6 @@
+2021/06/16-04:33:12.164 22d9fe Creating DB /home/pc01/.config/chromium/Default/IndexedDB/https_anilist.co_0.indexeddb.leveldb since it was missing.
+2021/06/16-04:33:12.173 22d9fe Reusing MANIFEST /home/pc01/.config/chromium/Default/IndexedDB/https_anilist.co_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/16-04:56:03.325 22fd44 Level-0 table #5: started
+2021/06/16-04:56:03.330 22fd44 Level-0 table #5: 48660 bytes OK
+2021/06/16-04:56:03.333 22fd44 Delete type=0 #3
+2021/06/16-04:56:03.333 22fd44 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

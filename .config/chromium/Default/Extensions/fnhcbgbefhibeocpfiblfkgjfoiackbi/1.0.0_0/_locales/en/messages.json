@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Automaticaly copy picked color to clipboard"
+   },
+   "cancel_desc": {
+      "message": " Simply cancel active picking color from web page. No color will be stored in history."
+   },
+   "cancel_pick": {
+      "message": "Cancel Pick:"
+   },
+   "change_at": {
+      "message": "You can change this shortcut at Chrome's"
+   },
+   "click_action": {
+      "message": "Click icon to pick color from web page"
+   },
+   "color_picker": {
+      "message": "Color Picker"
+   },
+   "command": {
+      "message": "Alt+P"
+   },
+   "command_desc": {
+      "message": "Activate pick color from web page"
+   },
+   "crosshair": {
+      "message": "crosshair"
+   },
+   "disable_right_click": {
+      "message": "Disable pick with right mouse click"
+   },
+   "do_not_copy": {
+      "message": "Do not copy # character, only RGB color"
+   },
+   "drop_desc": {
+      "message": "move mouse over icon to see how it looks like"
+   },
+   "dropper_cursor": {
+      "message": "Dropper cursor"
+   },
+   "empty_history": {
+      "message": "History is empty, try to pick some color first."
+   },
+   "enable_box": {
+      "message": "Enable box with color information in right bottom corner"
+   },
+   "enable_color": {
+      "message": " Enable color tooltip next to the mouse cursor"
+   },
+   "ext_shortcut": {
+      "message": "Extensions Shortcut"
+   },
+   "extension_description": {
+      "message": "Color Picker for Chrome quickly selects colours from the page using the eyedropper and automatically when browsing the web."
+   },
+   "extension_name": {
+      "message": "Color Picker"
+   },
+   "option_legend1": {
+      "message": "Webpage Pick Behaviour"
+   },
+   "option_legend2": {
+      "message": "Webpage Pick Look"
+   },
+   "option_legend3": {
+      "message": "Keyboard Shortcuts for Pick Color from Web Page"
+   },
+   "palette": {
+      "message": "Palette:"
+   },
+   "palette_default": {
+      "message": "default"
+   },
+   "pick_color": {
+      "message": "Pick Color"
+   },
+   "pickup_color": {
+      "message": "Pickup Color:"
+   },
+   "pointer": {
+      "message": "pointer"
+   },
+   "save_settings": {
+      "message": "Save settings"
+   },
+   "update_color": {
+      "message": "Update Colors"
+   },
+   "update_desc": {
+      "message": "Color Picker shows you only color which was present at moment of color pick active. If any javascript event occures (hover effect, menu appears) you can refresh its \"cache\" with this keyboard shortcut."
+   }
+}

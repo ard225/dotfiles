@@ -1,0 +1,31 @@
+00:00:00.000159 main     VirtualBox XPCOM Server 6.1.22 r144080 linux.amd64 (Jun 21 2021 10:09:41) release log
+00:00:00.000162 main     Log opened 2021-07-18T03:33:02.303242000Z
+00:00:00.000162 main     Build Type: release
+00:00:00.000164 main     OS Product: Linux
+00:00:00.000165 main     OS Release: 5.10.49-1-MANJARO
+00:00:00.000165 main     OS Version: #1 SMP PREEMPT Sun Jul 11 12:59:43 UTC 2021
+00:00:00.000192 main     DMI Product Name: MS-7A38
+00:00:00.000197 main     DMI Product Version: 5.0
+00:00:00.000201 main     Firmware type: UEFI
+00:00:00.000962 main     Secure Boot: Disabled
+00:00:00.001002 main     Host RAM: 32117MB (31.3GB) total, 28510MB (27.8GB) available
+00:00:00.001005 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001006 main     Process ID: 61033
+00:00:00.001006 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.002677 main     IPC socket path: /tmp/.vbox-pc01-ipc/ipcd
+00:00:00.106949 nspr-2   VirtualBox: object creation starts
+00:00:00.107015 nspr-2   Home directory: '/home/pc01/.config/VirtualBox'
+00:00:00.107824 nspr-2   HostDnsMonitor: initializing
+00:00:00.108025 nspr-2   NAT: resolv.conf: nameserver 192.168.1.1
+00:00:00.108054 nspr-2   HostDnsMonitor: updating information
+00:00:00.108088 nspr-2   HostDnsMonitor: old information
+00:00:00.108094 nspr-2     no server entries
+00:00:00.108100 nspr-2     no domain set
+00:00:00.108105 nspr-2     no search string entries
+00:00:00.108111 nspr-2   HostDnsMonitor: new information
+00:00:00.108115 nspr-2     server 1: 192.168.1.1
+00:00:00.108122 nspr-2     no domain set
+00:00:00.108127 nspr-2     no search string entries
+00:00:00.111740 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.111899 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.112540 nspr-2   VirtualBox: object created

@@ -1,0 +1,7 @@
+
+[audgui]
+filesel_path=/home/pc01/Music
+
+[qtui]
+player_height=607
+player_width=556

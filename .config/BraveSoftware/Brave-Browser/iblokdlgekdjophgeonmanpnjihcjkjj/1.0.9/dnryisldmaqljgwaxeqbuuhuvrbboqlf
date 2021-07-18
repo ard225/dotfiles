@@ -1,0 +1,1 @@
+{"locale": "us", "version": 1, "timestamp": "2021-07-15 13:46:34", "conversion_id_patterns": {"https://www.crocs.com/on/demandware.store/Sites-crocs_us-Site/default/COReview-ShowConfirmation*": {"search_in": "html", "id_pattern": "href=.*orderNo=([a-zA-Z0-9]*)"}}}

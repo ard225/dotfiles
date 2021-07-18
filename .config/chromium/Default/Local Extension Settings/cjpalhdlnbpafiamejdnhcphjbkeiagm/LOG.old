@@ -1,0 +1,27 @@
+2021/06/22-16:05:34.751 275b5f Reusing MANIFEST /home/pc01/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/06/22-16:05:34.751 275b5f Recovering log #88
+2021/06/22-16:05:34.754 275b5f Reusing old log /home/pc01/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000088.log 
+2021/06/23-08:08:37.221 2cd540 Level-0 table #92: started
+2021/06/23-08:08:37.248 2cd540 Level-0 table #92: 2357134 bytes OK
+2021/06/23-08:08:37.252 2cd540 Delete type=0 #88
+2021/06/23-08:08:37.253 2cd540 Compacting 4@0 + 4@1 files
+2021/06/23-08:08:37.296 2cd540 Generated table #93@0: 16 keys, 2116214 bytes
+2021/06/23-08:08:37.333 2cd540 Generated table #94@0: 7 keys, 2925046 bytes
+2021/06/23-08:08:37.362 2cd540 Generated table #95@0: 8 keys, 2450116 bytes
+2021/06/23-08:08:37.366 2cd540 Generated table #96@0: 4 keys, 154843 bytes
+2021/06/23-08:08:37.366 2cd540 Compacted 4@0 + 4@1 files => 7646219 bytes
+2021/06/23-08:08:37.370 2cd540 compacted to: files[ 0 4 1 0 0 0 0 ]
+2021/06/23-08:08:37.370 2cd540 Delete type=2 #79
+2021/06/23-08:08:37.370 2cd540 Delete type=2 #84
+2021/06/23-08:08:37.370 2cd540 Delete type=2 #78
+2021/06/23-08:08:37.370 2cd540 Delete type=2 #87
+2021/06/23-08:08:37.370 2cd540 Delete type=2 #92
+2021/06/23-08:08:37.370 2cd540 Delete type=2 #89
+2021/06/23-08:08:37.370 2cd540 Delete type=2 #81
+2021/06/23-08:08:37.370 2cd540 Delete type=2 #80
+2021/06/23-08:16:38.847 2cd540 Level-0 table #98: started
+2021/06/23-08:16:38.885 2cd540 Level-0 table #98: 1879020 bytes OK
+2021/06/23-08:16:38.889 2cd540 Delete type=0 #91
+2021/06/23-08:27:39.558 2ce0fa Level-0 table #100: started
+2021/06/23-08:27:39.585 2ce0fa Level-0 table #100: 2138512 bytes OK
+2021/06/23-08:27:39.589 2ce0fa Delete type=0 #97

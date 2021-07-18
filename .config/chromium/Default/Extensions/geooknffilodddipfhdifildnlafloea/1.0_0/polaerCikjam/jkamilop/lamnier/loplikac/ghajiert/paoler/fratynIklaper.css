@@ -1,0 +1,34 @@
+.bmacierfa {
+    position: fixed;
+    z-index: 2147483647;
+    width: 20px;
+    height: 20px;
+    border: 1px solid;
+}
+
+.fgabityh {
+    position: fixed;
+    z-index: 2147483647;
+    width: 160px;
+    height: 50px;
+    border: 1px solid;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+}
+
+.raditynka {
+    max-width: 25%;
+    width: 25%;
+    height: 100%;
+    background-color: red;
+}
+
+.erfagipoqwas {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    z-index: 2147483646;
+}

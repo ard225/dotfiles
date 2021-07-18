@@ -1,0 +1,6 @@
+2021/07/08-03:31:36.683 1deb56 Creating DB /home/pc01/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_kanon.fandom.com_0.indexeddb.leveldb since it was missing.
+2021/07/08-03:31:36.694 1deb56 Reusing MANIFEST /home/pc01/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_kanon.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/08-03:32:05.669 1de25b Level-0 table #5: started
+2021/07/08-03:32:05.672 1de25b Level-0 table #5: 8044 bytes OK
+2021/07/08-03:32:05.676 1de25b Delete type=0 #3
+2021/07/08-03:32:05.676 1de25b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
