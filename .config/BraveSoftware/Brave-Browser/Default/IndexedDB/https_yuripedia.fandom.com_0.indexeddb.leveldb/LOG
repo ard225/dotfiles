@@ -1,6 +1,0 @@
-2021/07/10-04:17:41.605 fa8fe Creating DB /home/pc01/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_yuripedia.fandom.com_0.indexeddb.leveldb since it was missing.
-2021/07/10-04:17:41.616 fa8fe Reusing MANIFEST /home/pc01/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_yuripedia.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/07/10-04:17:47.018 f9f14 Level-0 table #5: started
-2021/07/10-04:17:47.021 f9f14 Level-0 table #5: 5831 bytes OK
-2021/07/10-04:17:47.024 f9f14 Delete type=0 #3
-2021/07/10-04:17:47.025 f9f14 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
